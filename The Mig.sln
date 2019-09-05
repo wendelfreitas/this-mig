@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B88F9D9B-87FB-3289-AF88-30E54384D137}") = "The Mig", "Assembly-CSharp-firstpass.csproj", "{D577348D-00B8-3038-1498-975DC42BFFBC}"
+EndProject
+Project("{B88F9D9B-87FB-3289-AF88-30E54384D137}") = "The Mig", "Assembly-CSharp.csproj", "{97C79515-92CD-D915-B782-905CF32C7CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D577348D-00B8-3038-1498-975DC42BFFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D577348D-00B8-3038-1498-975DC42BFFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D577348D-00B8-3038-1498-975DC42BFFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D577348D-00B8-3038-1498-975DC42BFFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C79515-92CD-D915-B782-905CF32C7CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C79515-92CD-D915-B782-905CF32C7CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C79515-92CD-D915-B782-905CF32C7CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C79515-92CD-D915-B782-905CF32C7CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
